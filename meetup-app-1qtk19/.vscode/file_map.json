@@ -1,0 +1,146 @@
+{
+  "subscribe_to_matches.dart": {
+    "old_identifier_name": "subscribeToMatches",
+    "new_identifier_name": "subscribeToMatches",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "c0623c8aa93293b17ceaa16fcfc9566abf88c3bb7d3fa4a39946b50060b76bb8",
+    "original_checksum": "c0623c8aa93293b17ceaa16fcfc9566abf88c3bb7d3fa4a39946b50060b76bb8"
+  },
+  "unsubscribe.dart": {
+    "old_identifier_name": "unsubscribe",
+    "new_identifier_name": "unsubscribe",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a48c81cc757d400c47854e5ac68be6e3407d8b391238b2541e1240d0fb1813fb",
+    "original_checksum": "a48c81cc757d400c47854e5ac68be6e3407d8b391238b2541e1240d0fb1813fb"
+  },
+  "online_users.dart": {
+    "old_identifier_name": "onlineUsers",
+    "new_identifier_name": "onlineUsers",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "b697edd53548f8b89f5cc09d343afbd891765a4d7618b9d7b1107dd872d4c432",
+    "original_checksum": "b697edd53548f8b89f5cc09d343afbd891765a4d7618b9d7b1107dd872d4c432"
+  },
+  "subscribe_to_messages.dart": {
+    "old_identifier_name": "subscribeToMessages",
+    "new_identifier_name": "subscribeToMessages",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "76eb50baa649678fc276f53ec05247230c3db2bb387bab24421f8cf7ffa9da06",
+    "original_checksum": "76eb50baa649678fc276f53ec05247230c3db2bb387bab24421f8cf7ffa9da06"
+  },
+  "undo_last_swipe_combined.dart": {
+    "old_identifier_name": "undoLastSwipeCombined",
+    "new_identifier_name": "undoLastSwipeCombined",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "d511f9a64a7fbdf4e6e5be1379928516aed18b9872e69d87541aa8b2897831b5",
+    "original_checksum": "d511f9a64a7fbdf4e6e5be1379928516aed18b9872e69d87541aa8b2897831b5"
+  },
+  "fetch_additional_profiles.dart": {
+    "old_identifier_name": "fetchAdditionalProfiles",
+    "new_identifier_name": "fetchAdditionalProfiles",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "ddb30ca703797f1405ef1c7b7c3320f573da5eb5bf449afbfe0f4f1a55744a26",
+    "original_checksum": "ddb30ca703797f1405ef1c7b7c3320f573da5eb5bf449afbfe0f4f1a55744a26"
+  },
+  "handle_swipe_action_combined.dart": {
+    "old_identifier_name": "handleSwipeActionCombined",
+    "new_identifier_name": "handleSwipeActionCombined",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "08191fefdcb4147a6d4d2bc7c118f4c7fb8f87dd3231f04dc699d406e5ef8c25",
+    "original_checksum": "08191fefdcb4147a6d4d2bc7c118f4c7fb8f87dd3231f04dc699d406e5ef8c25"
+  },
+  "load_initial_profiles.dart": {
+    "old_identifier_name": "loadInitialProfiles",
+    "new_identifier_name": "loadInitialProfiles",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "13f6c6a7516c3f7e8b3372a8d8644c4c4d6be3f816d25a425e7e41cd0d76abe5",
+    "original_checksum": "13f6c6a7516c3f7e8b3372a8d8644c4c4d6be3f816d25a425e7e41cd0d76abe5"
+  },
+  "load_user_profile.dart": {
+    "old_identifier_name": "loadUserProfile",
+    "new_identifier_name": "loadUserProfile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "bdaf41d8ad68d44a810a76ca8e1d846bf499d7688e6ca3fd653ab69f76b6d707",
+    "original_checksum": "bdaf41d8ad68d44a810a76ca8e1d846bf499d7688e6ca3fd653ab69f76b6d707"
+  },
+  "check_internet_with_speed.dart": {
+    "old_identifier_name": "checkInternetWithSpeed",
+    "new_identifier_name": "checkInternetWithSpeed",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a47b9fb5ab451705c99086259f877bd17690505f9143f1bacc31daf5d44b12e6",
+    "original_checksum": "a47b9fb5ab451705c99086259f877bd17690505f9143f1bacc31daf5d44b12e6"
+  },
+  "fetch_and_store_user_profile.dart": {
+    "old_identifier_name": "fetchAndStoreUserProfile",
+    "new_identifier_name": "fetchAndStoreUserProfile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "cb42207e001409985eceb953afbfcb175ba38e8d6a49dd58e254f95aedcafaf6",
+    "original_checksum": "cb42207e001409985eceb953afbfcb175ba38e8d6a49dd58e254f95aedcafaf6"
+  },
+  "update_user_profile_field.dart": {
+    "old_identifier_name": "updateUserProfileField",
+    "new_identifier_name": "updateUserProfileField",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "d7c1285fb1f5ea0b89317e9ca76f52814b7242504ed7af5cff9bec9569cb3cd2",
+    "original_checksum": "d7c1285fb1f5ea0b89317e9ca76f52814b7242504ed7af5cff9bec9569cb3cd2"
+  },
+  "update_string_array_and_manage_storage.dart": {
+    "old_identifier_name": "updateStringArrayAndManageStorage",
+    "new_identifier_name": "updateStringArrayAndManageStorage",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "1304a4db5a5f697d2177c77f3f94eb5107e019a8b12112bf5e0ad0824e36d2fe",
+    "original_checksum": "1304a4db5a5f697d2177c77f3f94eb5107e019a8b12112bf5e0ad0824e36d2fe"
+  },
+  "update_user_profile_list_field.dart": {
+    "old_identifier_name": "updateUserProfileListField",
+    "new_identifier_name": "updateUserProfileListField",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a7a07f02719100eba66bfd6fbe35804a93dd7d6c2618d120feb80d03a25cc64a",
+    "original_checksum": "a7a07f02719100eba66bfd6fbe35804a93dd7d6c2618d120feb80d03a25cc64a"
+  },
+  "image_cropper.dart": {
+    "old_identifier_name": "ImageCropper",
+    "new_identifier_name": "ImageCropper",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "24fca12c1b5c1280472c5f30b239023200428802cc324bd45ba10dc1e65ecbb8",
+    "original_checksum": "24fca12c1b5c1280472c5f30b239023200428802cc324bd45ba10dc1e65ecbb8"
+  },
+  "swipe_card_stack.dart": {
+    "old_identifier_name": "SwipeCardStack",
+    "new_identifier_name": "SwipeCardStack",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "d69e173fd5b83c9f9644a7da67cc0f4b00f62d4835dd35cab2dd734db40d4d41",
+    "original_checksum": "d69e173fd5b83c9f9644a7da67cc0f4b00f62d4835dd35cab2dd734db40d4d41"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "bfbfdf4f5753fc2ca13d1fdc735d411a209f3973f629577c06aad4d2bb107a88",
+    "original_checksum": "bfbfdf4f5753fc2ca13d1fdc735d411a209f3973f629577c06aad4d2bb107a88"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "ef5014789f332f34db6c479c0963c5738905132d2348b5d039fa76b33b908f88",
+    "original_checksum": "ef5014789f332f34db6c479c0963c5738905132d2348b5d039fa76b33b908f88"
+  }
+}
